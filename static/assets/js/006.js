@@ -317,7 +317,7 @@ function EngineChange(dropdown) {
   const selectedEngine = dropdown.value;
 
   const engineUrls = {
-    Google: "https://www.google.com/search?q=",
+    Google: "https://www.bing.com/search?q=",
     Bing: "https://www.bing.com/search?q=",
     DuckDuckGo: "https://duckduckgo.com/?q=",
     Qwant: "https://www.qwant.com/?q=",
